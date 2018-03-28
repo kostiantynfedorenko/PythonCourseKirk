@@ -1,0 +1,2 @@
+no logging console disable
+no logging buffered 10000
